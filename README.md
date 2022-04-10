@@ -12,3 +12,8 @@ Basic Programming for Data Science and Data Visualization : ทักษิณ�
  [Canva](https://github.com/623021000-1thaksina/data_viz_2022/blob/main/Project-Group.pdf)
 
 -Present
+
+**Final (กลุ่ม Fatefuness)**
+[colab] (https://github.com/623021000-1thaksina/data_viz_2022/blob/main/Final_Exam.ipynb)
+
+[Dashbroad] (https://datastudio.google.com/u/0/reporting/cf7fa017-ed8d-49a9-be85-5aa6ea63eb8c/page/lCEqC/edit)
