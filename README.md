@@ -3,7 +3,7 @@ Basic Programming for Data Science and Data Visualization : ทักษิณ�
 
 **Project (กลุ่มโน้น)**
 
-[Colab] (https://github.com/623021000-1thaksina/data_viz_2022/blob/main/Project.ipynb)
+[Colab](https://github.com/623021000-1thaksina/data_viz_2022/blob/main/Project.ipynb)
   
   -เกี่ยวกับ Data ที่ใช้ทั้ง 3 และ จุดมุ่งหมายที่สร้าง dashboard
   -Preprocessing
