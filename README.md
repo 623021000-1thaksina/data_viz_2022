@@ -1,7 +1,7 @@
 # data_viz_2022
 Basic Programming for Data Science and Data Visualization : ทักษิณา ราชหุ่น ID 6230210001
 
-**Project**
+**Project (กลุ่มโน้น)**
 
 [Colab] (https://github.com/623021000-1thaksina/data_viz_2022/blob/main/Project.ipynb)
   
